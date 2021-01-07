@@ -5,4 +5,5 @@ Minecraft клиент для Fabric 1.16.4
 
 [Исходный код](https://github.com/ZimnyCat/BigRat)
 
-![](https://img.shields.io/github/downloads/ZimnyCat/BigRat/total?style=flat-square)
+![](https://img.shields.io/github/downloads/ZimnyCat/BigRat/total)
+![](https://img.shields.io/badge/halal-100%25-brightgreen)
