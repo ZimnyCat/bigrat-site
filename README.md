@@ -1,9 +1,11 @@
 # BigRat Utility Mod
-Minecraft клиент для Fabric 1.16.4
+Minecraft клиент для Fabric 1.16.5
 
-[Скачать](https://github.com/ZimnyCat/BigRat/releases/download/v3/bigrat-v3.jar)
+[Скачать](https://github.com/ZimnyCat/BigRat/releases/download/v4/bigrat-v4.jar)
 
 [Исходный код](https://github.com/ZimnyCat/BigRat)
 
 ![](https://img.shields.io/github/downloads/ZimnyCat/BigRat/total)
 ![](https://img.shields.io/badge/halal-100%25-brightgreen)
+
+![](https://bigrat.monster/media/bigrat.png)
