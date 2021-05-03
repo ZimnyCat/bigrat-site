@@ -8,4 +8,4 @@ Minecraft клиент для Fabric 1.16.5
 ![](https://img.shields.io/github/downloads/ZimnyCat/BigRat/total)
 ![](https://img.shields.io/badge/halal-100%25-brightgreen)
 
-![](https://bigrat.monster/media/bigrat.png)
+![](https://bigrat.site/bigrat.png)
